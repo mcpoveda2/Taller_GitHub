@@ -1,0 +1,4 @@
+La palabra hola aparece 2
+La palabra michael aparece 3
+La palabra carla aparece 1
+La palabra telefono aparece 1
