@@ -1,4 +1,4 @@
-primera función:
+#primera función:
 def suma_lista(lista):
   total = 0
   for numero in lista:
@@ -6,8 +6,8 @@ def suma_lista(lista):
   return total
 
 
-segunda funcion:
-def mayor_elemento(lista)
+#segunda funcion:
+def mayor_elemento(lista):
   if not lista:
     return None 
   mayor = lista [0]
